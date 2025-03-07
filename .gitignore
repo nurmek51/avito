@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+*.env
+Pipfile
+Pipfile.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and model files
+train_data.zip
+test_data.zip
+train_data/
+test_data/
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Logs and debug files
+logs/
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+*.iml
+
+# Git-specific files
+*.swp
+*.swo
+
+# Output files
+submission.csv
