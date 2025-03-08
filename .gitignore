@@ -12,7 +12,7 @@ env/
 *.env
 Pipfile
 Pipfile.lock
-
+.idea/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
